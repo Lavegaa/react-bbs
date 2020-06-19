@@ -1,0 +1,41 @@
+.wrapper {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.login_form {
+    width:400px;
+    height: 60px;
+    font-size: 45px;
+    border-radius: 15px;
+}
+
+.login_form:focus {
+    outline: none;
+}
+
+.inputbox {
+    margin-top: 40px;
+}
+
+.inputbox h1 {
+    margin-bottom: 10px;
+}
+
+
+.inputbox h1 {
+    font-size: 20px;
+}
+
+.btn_login {
+    width: 400px;
+    height: 40px;
+    background-color: #4688d2;
+    margin-top: 20px;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+.goRegi {
+    margin: 10px 0 0 10px;
+}

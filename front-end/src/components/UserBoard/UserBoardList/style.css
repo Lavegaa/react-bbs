@@ -1,0 +1,22 @@
+.nav {
+    width:680px;
+    height: 45px;
+    margin:0 0 20px 0;
+    float: left;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+}
+
+.nav_item {
+    float: left;
+    text-align: center;
+    /* margin: 15px; */
+    font-size: 12px;
+    font-weight: 700;
+    padding: 15px;
+}
+
+.nav_item:hover {
+    background: #f5f5f5;
+    cursor: pointer;
+}

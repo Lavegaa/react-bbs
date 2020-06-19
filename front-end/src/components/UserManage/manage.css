@@ -1,0 +1,22 @@
+.btn_d {
+    display: inline-block;
+    vertical-align: top;
+    height: 13px;
+    font-size: 12px;
+    padding: 5px 8px 5px 8px;
+    background: #4688d2;
+    color: white;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-top: 2px;
+}
+
+.manage {
+    width:50px;
+    height:10px;
+    float: right;
+    font-size:10px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    cursor: pointer;
+}
